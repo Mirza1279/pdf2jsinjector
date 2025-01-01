@@ -27,3 +27,5 @@ This will create a new file in the same directory as the PDF with "js_injected_"
 To automate the process via the command line the following shows the new 
 
 Enjoy!!! 3:)
+
+Disclaimer: This tool is for testing purpose only, i am not responsible for any misuse.

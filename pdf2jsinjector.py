@@ -12,7 +12,8 @@
 #               \          /      #
 #                `--------`       #
 #  PDF JavaScript Injector Tool   #
-# Contact: example@gmail.com      #
+# Contact: mirzaahmed2723@gmail.com
+# Disclaimer: This tool is for testing purpose only, i am not responsible for any misuse.
 # ===================================== #
 
 import tkinter as tk
@@ -36,7 +37,8 @@ def display_banner():
     print("#               \\          /      #")
     print("#                `--------`       #")
     print("#  PDF JavaScript Injector Tool   #")
-    print("# Contact: example@gmail.com      #")
+    print("# Contact: mirzaahmed2723@gmail.com      #")
+    print("#Disclaimer: This tool is for testing purpose only, i am not responsible for any misuse.")
     print("# ===================================== #")
     time.sleep(3)
 
